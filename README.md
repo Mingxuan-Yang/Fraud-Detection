@@ -8,9 +8,9 @@ This project is to solve the fraud detection problem in financial payment servic
 
 The whole analyse in the [jupyter notebook](./Fraud_Detection.ipynb) includes three parts:
 
-- [Exploratory Data Analysis]()
-- [Data Cleaning]()
-- [Models]()
+- Exploratory Data Analysis
+- Data Cleaning
+- Models
 
 ## Dataset
 
