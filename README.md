@@ -1,5 +1,7 @@
 # Fraud Detection in Financial Services
 
+*Project Date: 2020-10-23*
+
 ## Introduction
 
 This project is to solve the fraud detection problem in financial payment services, which is a binary classification problem. It is aimed to find whether a transaction is made by the fraudulent agents or the genuine agents. The fraudulent agents intends to take control of the customers' accounts and transfer all the funds to another account and cash out of the system. Therefore, correctly detecting these actions is meaningful and can better protect the customers' property.
